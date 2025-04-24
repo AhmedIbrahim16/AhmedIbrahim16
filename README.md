@@ -17,8 +17,7 @@ I'm passionate about using technology to build projects that could help improve 
 ## 🎯 Interests
 - 📶 Wireless Communication & 🌐 IoT  
 - 📊 Data Analysis  
-- 🏙️ Smart City & 🏠 Smart Home projects  
-- ⚽ Football & 🏆 UEFA Champions League  
+- 🏙️ Smart City & 🏠 Smart Home projects    
 - 🇩🇪 Learning German & German culture  
 
 ---
